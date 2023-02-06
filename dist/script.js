@@ -4,8 +4,7 @@ $(document).ready(function(){
   var playlist = [{
       title:"Hidden",
       artist:"Miaow",
-      mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
+      mp3:"https://github.com/koririri/muzyka2/raw/main/Muzyka%20z%20cyrku.mp3",
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
       title:"Cro Magnon Man",
